@@ -210,7 +210,7 @@ section.best-sellers .product-slider .product img {
 
 section.best-sellers .product-slider .product.new::before {
     content: "New";
-    background-color: red;
+    background-color: #614dc9;
     position: absolute;
     top: 12px;
     right: 12px;
@@ -222,7 +222,7 @@ section.best-sellers .product-slider .product.new::before {
     text-align: center;
     padding: 4px 15px;
     border-radius: 40px;
-    background-color: #EC1C1C;
+    background-color: #614dc9;
 }
 
 section.best-sellers .product-slider .product .product-info {
@@ -344,8 +344,8 @@ section.newsletter form button {
     max-width: 20%;
     box-sizing: border-box;
     border-radius: 0 60px 60px 0;
-    background-color: #33c6dd;
-    border: 1px solid #33c6dd;
+    background-color: #614dc9;
+    border: 1px solid #614dc9;
     color: #FFF;
     font-size: 14px;
     letter-spacing: 0.35px;
@@ -356,8 +356,8 @@ section.newsletter form button {
 }
 
 section.newsletter form button:hover {
-    color: #33c6dd;
-    border: 1px solid #33c6dd;
+    color: #614dc9;
+    border: 1px solid #614dc9;
     background-color: #FFF;
     border: 1px solid #3E3E3E;
 }
